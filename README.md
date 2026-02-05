@@ -28,5 +28,5 @@ python human_detection.py
 - Edge deployment for smart surveillance
 
 ## Output
-
+Added project output image
 ![Human Detection Output](output.png)
