@@ -25,4 +25,8 @@ python human_detection.py
 ## Future Improvements
 - Email/SMS alerts  
 - Multi-camera support  
-- Edge deployment for smart surveillance  
+- Edge deployment for smart surveillance
+
+## Output
+
+![Human Detection Output](output.png)
